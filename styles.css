@@ -73,8 +73,10 @@ background-attachment: fixed;
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
-@media (max-width:700px){
 
+
+/* @media (max-width:700px){ */
+@media (min-width:700px)and (max-width:1100px){
 body{
 margin:0;
 
@@ -115,7 +117,7 @@ border-radius: 80%;
 
 }
 
-@media (min-width:700px)and (max-width:1100px){
+/* @media (min-width:700px)and (max-width:1100px){
 
 body{
 margin:0;
@@ -137,8 +139,9 @@ margin:0;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-height : auto;
+  height : auto;
   }
+  
   .row2{
     margin: auto;
     margin-top : 50px;
@@ -155,12 +158,12 @@ height : auto;
 }
 .profile{
   height : 150px;
-border-radius: 80%;
+  border-radius: 80%;
   position: relative;
   right:25%;
 }
 
-}
+} */
 
 
 @media (min-width:1100px)and (max-width:1700px){
@@ -168,16 +171,7 @@ border-radius: 80%;
 body{
 margin:0;
 }
-  .container {
-       height: 90vh;
-      display: block;
-      width: 10%;
-      position: absolute;
-      margin-left: 10%;
-      top: 0;
-      left:2%;
-
-  }
+  
 .btn {
   margin: 5px;
   display: inline-block;
