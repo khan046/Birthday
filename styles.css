@@ -119,6 +119,10 @@ border-radius: 80%;
 
 body{
 margin:0;
+  background-image: url("images/hbd_background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 .container {
@@ -144,16 +148,6 @@ margin:0;
   } */
   
   
-  body{
-
-  background-image: url("images/hbd_background.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  height : auto;
-
-
-  }
   .row2{
     margin: auto;
     margin-top : 50px;
