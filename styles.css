@@ -130,6 +130,16 @@ margin:0;
       right:5%;
 
   }
+  body{
+
+  background-image: url("images/hbd_background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+
+
+  }
   .row2{
     margin: auto;
     margin-top : 50px;
