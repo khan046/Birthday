@@ -121,7 +121,7 @@ body{
 margin:0;
 }
 
-/* .container {
+.container {
       display: block;
       width: 10%;
       position: relative;
@@ -129,9 +129,9 @@ margin:0;
       top: 0;
       right:5%;
 
-  } */
+  }
   
-  .container {
+/*   .container {
       height: 90vh;
       display: block;
       width: 10%;
@@ -141,7 +141,7 @@ margin:0;
       top: 0;
       left:2%;
 
-  }
+  } */
   
   
   body{
