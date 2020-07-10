@@ -121,7 +121,7 @@ body{
 margin:0;
 }
 
-/* .container {
+.container {
       display: block;
       width: 10%;
       position: relative;
@@ -129,20 +129,9 @@ margin:0;
       top: 0;
       right:5%;
 
-  } */
-  
-  .container {
-       height: 90vh;
-      display: block;
-      width: 10%;
-      position: absolute;
-      margin-left: 10%;
-      top: 0;
-      left:2%;
-
   }
   
-  
+
   body{
   background-image: url("images/hbd_background.jpg");
   background-repeat: no-repeat;
@@ -179,7 +168,16 @@ border-radius: 80%;
 body{
 margin:0;
 }
+  .container {
+       height: 90vh;
+      display: block;
+      width: 10%;
+      position: absolute;
+      margin-left: 10%;
+      top: 0;
+      left:2%;
 
+  }
 .btn {
   margin: 5px;
   display: inline-block;
