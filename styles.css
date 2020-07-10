@@ -73,7 +73,7 @@ background-attachment: fixed;
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
-@media (max-width:700px){
+@media (max-width:800px){
 
 body{
 margin:0;
@@ -115,7 +115,7 @@ border-radius: 80%;
 
 }
 
-@media (min-width:700px)and (max-width:1100px){
+@media (min-width:900px)and (max-width:1100px){
 
 body{
 margin:0;
