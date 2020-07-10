@@ -1,4 +1,4 @@
-// alert("the site is best viewed on desktop dite")
+alert("Access this site in Desktop for better Visibility")
 // $(document).keypress(function(){
 //
 // })
