@@ -132,7 +132,7 @@ margin:0;
   } */
   
   .container {
-      height: 90vh;
+      height: auto;
       display: block;
       width: 10%;
     height : 100%;
