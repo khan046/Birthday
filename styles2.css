@@ -1,0 +1,182 @@
+body{
+font-family: 'Cedarville Cursive', cursive;
+text-align: center;
+font-weight: bold;
+
+}
+
+
+h1{
+  margin-top:  20% ;
+}
+
+.quote{
+  display: inline;
+  position:absolute;
+  left : 41%;
+  margin:0;
+  color: red;
+  font-size: 3rem;
+}
+
+.profile{
+height : 200px;
+border-radius: 80%;
+position: relative;
+left : 25%;
+margin-top: 6%;
+
+}
+
+.btn h1{
+  /* color:magenta; */
+}
+
+ body{
+background-image: url("images/hbd_background.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+
+.container {
+  display: block;
+  width: 42%;
+  margin: auto;
+  position: absolute;
+  right:10px;
+  top : 20%;
+}
+
+.row2{
+  margin-left:23%;
+}
+
+.btn {
+  margin: 10px;
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  border: 5px solid black;
+  border-radius: 20%;
+  border-color: #222831;
+  font-size: 20px;
+  text-align: center;
+  color: #900c3f;
+
+}
+.btn:hover{
+  color:#ff4c68;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+/* @media (max-width:700px){
+
+body{
+margin:0;
+
+background-image: url("images/hbd_background.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+
+
+
+}
+
+
+.container {
+       height: 90vh;
+      display: block;
+      width: 10%;
+      position: absolute;
+      margin-left: 10%;
+      top: 0;
+      left:2%;
+
+  }
+
+  .row2{
+    margin: auto;
+      margin-top : 50px;
+  }
+ .row2 .quote{
+   visibility: hidden;
+ }
+.profile{
+  height : 150px;
+border-radius: 80%;
+  position: relative;
+  left : 45%;
+}
+
+}
+
+@media (min-width:700px)and (max-width:1100px){
+
+body{
+margin:0;
+}
+
+.container {
+      display: block;
+      width: 10%;
+      position: relative;
+      margin-right: 10%;
+      top: 0;
+      right:5%;
+
+  }
+  body{
+  background-image: url("images/hbd_background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+height : auto;
+  }
+  .row2{
+    margin: auto;
+    margin-top : 50px;
+  }
+  .row2 .quote{
+    visibility: hidden;
+  }
+
+  .btn{
+    display: block;
+  }
+.row3{
+  margin-right: 10%;
+}
+.profile{
+  height : 150px;
+border-radius: 80%;
+  position: relative;
+  right:25%;
+}
+
+}
+
+
+@media (min-width:1100px)and (max-width:1700px){
+
+body{
+margin:0;
+}
+
+.btn {
+  margin: 5px;
+  display: inline-block;
+  height: 70px;
+  width: 70px;
+  border: 3px solid black;
+  border-radius: 20%;
+  font-size: 14px;
+  text-align: center;
+}
+.row2 .quote{
+    visibility: hidden;
+} */
